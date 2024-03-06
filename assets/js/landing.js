@@ -1,10 +1,9 @@
 const qna = {
-    "How do I purchase Tenacity?": "You may purchase Tenacity by clicking the <strong>Purchase</strong> button at the top.",
-    "How do I join the Tenacity Discord server?": `Click <a href="discord">here</a>!`,
-    "Will my access to Tenacity ever expire?": "Tenacity is a one-time purchase. You will keep your access to the client forever (even after updates) as long as you abide by our <a href='https://intent.store/tos' target='_blank'>Terms of Service</a>.",
-    "What operating systems does Tenacity support?": "Tenacity is compatible with Windows, Mac, and Linux.",
-    "How frequent are the updates?": "We update Tenacity every 1-2 weeks to keep up with anti-cheat patches and bring our users new quality of life features.",
-    "How long has Tenacity been in existence?": "Tenacity has been around since March 2021. With a constantly expanding userbase, we strive to create the best client and user experience for everyone.",
+    "How do I download Zephyr?": "You may download Zephyr by clicking the <strong>Download</strong> button at the top.",
+    "How do I join the Zephyr Discord server?": `Click <a href="discord">here</a>!`,
+    "What operating systems does Zephyr support?": "Zephyr is compatible with Windows, Mac, Linux, BSD and any OS with Java support!",
+    "How frequent are the updates?": "We update Zephyr every time a feature is ready to ship, for the bleeding edge you may compile the source version instead",
+    "How long has Zephyr been in existence?": "Zephyr has been around since March 2024. With a constantly expanding userbase, we strive to create the best text editor and user experience for everyone.",
 };
 
 const videos = ["0sLj5uMjbvk", "aVHxsGe5kdI", "xlJNUi3hT08", "444MYR7DGIo", "XU4XHGtqxs0", "i4sFpL4Zecc"];

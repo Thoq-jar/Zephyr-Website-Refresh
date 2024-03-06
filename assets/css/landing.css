@@ -1,6 +1,6 @@
 :root {
-    --color-primary: rgb(97, 216, 242);
-    --color-secondary: rgb(250, 109, 194);
+    --color-primary: rgb(16, 54, 232);
+    --color-secondary: rgb(175, 0, 227);
     --color-pastel-primary: rgb(45, 185, 240);
     --color-pastel-secondary: rgb(201, 124, 237);
     --color-pastel-primary-darker: rgb(42, 169, 219);
@@ -10,7 +10,7 @@
 body {
     background: rgb(45, 185, 240);
     background: linear-gradient(120deg, rgba(45, 185, 240, 1) 0%, rgba(145, 158, 227, 1) 50%, rgba(243, 131, 215, 1) 100%) fixed;
-    background: -webkit-linear-gradient(120deg, rgba(45, 185, 240, 1) 0%, rgba(145, 158, 227, 1) 50%, rgba(243, 131, 215, 1) 100%) fixed;
+    background: -webkit-linear-gradient(120deg, rgb(82, 21, 134) 0%, rgb(64, 13, 162) 50%, rgb(129, 4, 129) 100%) fixed;
     background-attachment: fixed;
     font-family: "Greycliff CF", Arial, Helvetica, sans-serif;
     color: #fff;
